@@ -1,0 +1,6 @@
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/0_17_jpg.rf.64b2894946cda189099b1631c5addcd5.jpg
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/0_40_jpg.rf.ea32a5d445b62b78891dfc51f5651347.jpg
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/1_21_jpg.rf.5b81fef01d311939e764d3c08cdea5d9.jpg
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/ISIC_6652710_jpg.rf.01184c50e75c64812b6e7bf3d94c8279.jpg
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/ISIC_6670764_jpg.rf.d101fb990ea692e26f3ce707206438e2.jpg
+/Users/shyngysnarseyit/Documents/Assignment-2-Image and Video Analysis with Deep Learning/data/skin-disease/test/images/ISIC_6675831_jpg.rf.029960c7269208835a1ffdf84759f38c.jpg

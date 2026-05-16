@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+runs/
+outputs/baseline_preds/
+outputs/finetuned_preds/
+*.pt
+.ipynb_checkpoints/
